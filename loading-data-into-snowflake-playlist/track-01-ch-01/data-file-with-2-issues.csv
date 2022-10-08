@@ -1,0 +1,6 @@
+CUSTOMER_PK,SALUTATION,FIRST_NAME,LAST_NAME,GENDER,MARITAL_STATUS,DAY_OF_BIRTH,BIRTH_COUNTRY,EMAIL_ADDRESS,CITY_NAME,ZIP_CODE,COUNTRY_NAME,GMT_TIMEZONE_OFFSET,PREFERRED_CUST_FLAG,REGISTRATION_TIME
+25335656,Dr.,Leo,Brown,F,D,1930-06-16,Madagascar,leo.brown@7uemf93n6mhfdf8.edu,Brownsville,59310,United States,-6.00,TRUE,2022-10-03 22:43:20.810 -0700
+25335678,Mrs.,Melissa,Hendrickson,M,S,1928-03-15,Romania,melissa.hendrickson@7d4vctbyz9tcmcds.org,Whitehall,77595,United States,-6.00,TRUE,2022-10-03 22:43:20.810 -0700
+25335682,Mrs.,Louise,Cobb,F,S,1951-09-09,Mali,louise.cobb@suqxozlxknl.com,Florence,33394,United States,-6.00,TRUE,2022-10-03 22:43:20.810 -0700
+25335724,Sir,Eugene,Jimenez,M,S,1929-05-28,French Polynesia,eugene.jimenez@a2kmgxvma.edu,Belmont,70191,United States,-6.00,Truths,2022-10-03 22:43:20.810 -0700
+25335730,Dr.,Joyce,Ferguson,F,M,1973-09-15,Cambodia,joyce.ferguson@9o.com,Macedonia,61087,United States,-6.0098,FALSE,2022-10-03 22:43:20.810 -0700
