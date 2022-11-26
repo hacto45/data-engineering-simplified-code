@@ -1,0 +1,6 @@
+CUSTOMER_PK,SALUTATION,FIRST_NAME,LAST_NAME,GENDER,MARITAL_STATUS,DAY_OF_BIRTH,BIRTH_COUNTRY,EMAIL_ADDRESS,CITY_NAME,ZIP_CODE,COUNTRY_NAME,GMT_TIMEZONE_OFFSET,PREFERRED_CUST_FLAG,REGISTRATION_TIME
+11,Dr.,Jack,Mcclellan,F,S,1938-10-01,Solomon Islands,jack.mcclellan@khbdi8fv1d.org,Green Acres,77683,United States,-6.00,TRUE,2022-10-03 22:43:20.810 -0700
+12,Ms.,Amanda,Howell,F,U,1932-08-03,Togo,amanda.howell@mg8kq.com,Franklin,39101,United States,-6.00,TRUE,2022-10-03 22:43:20.810 -0700
+13,Mr.,Christopher,Coffey,F,D,1986-07-23,Sweden,christopher.coffey@yhrz6mqmpct1hvz8.edu,Forest Hills,69237,United States,-6.00,TRUE,2022-10-03 22:43:20.810 -0700
+14,Sir,Joesph,Bachman,F,M,1970-08-13,American Samoa,joesph.bachman@9cdgttsvtyi.org,Quincy,33868,United States,-5.00,FALSE,2022-10-03 22:43:20.810 -0700
+15,Mr.,Gilbert,Hawkins,M,D,1938-05-03,Namibia,gilbert.hawkins@lxfggyid96jez.org,Stringtown,40162,United States,-5.00,TRUE,2022-10-03 22:43:20.810 -0700
