@@ -1,0 +1,13 @@
+order_id,order_date,order_time,product_name,order_price,tax_value,existing_customer,customer_name,mobile_number
+1,2023-03-20,17:04:54,"Pixel 5",1197.69,119.77,False,"Angela Baker",9525713064
+2,2023-01-05,01:59:53,"Nokia 8.3",1215.21,121.52,False,"Brian Hayes",9002690669
+3,2023-06-06,12:14:09,"Galaxy S21",1153.69,115.37,True,"Vanessa Campbell",9792815962
+4,2023-06-18,21:48:52,"Galaxy S21",1438.91,143.89,False,"Jacqueline Payne",9024701636
+5,2023-06-25,10:39:16,"OnePlus 9",1451.01,145.1,False,"Christine Johnson",9932099456
+6,2023-02-20,11:52:06,"Nokia 8.3",1459.28,145.93,True,"Robert Franco",9233292569
+7,2023-04-17,08:51:59,"Pixel 5",595.57,59.56,True,"Gabriela Lawson",9505658575
+8,2023-02-20,14:23:02,"Galaxy 
+Note 10",482.99,48.3,True,"Scott Brown",9910951810
+9,2023-03-16,13:01:12,"Galaxy 
+Note 10",1023.78,102.38,True,"Gina Curtis",9689960102
+10,2023-03-2",20:12:19,"iPhone 12",844.32,84.43,True,"Amanda's Griffith",9346122896
