@@ -1,0 +1,11 @@
+order_id,order_date,order_time,product_name,order_price,tax_value,existing_customer,customer_name
+1,2023-06-04,13:19:14,Moto G Power,956.27,95.63,False,Robert Sherman,9152218975
+2,2023-06-19,06:44:23,Nokia 8.3,658.97,65.9,True,Raymond Phillips,9872334088
+3,2023-04-08,05:11:22,Moto G Power,1487.21,148.72,False,Thomas Thompson,9513069603
+4,2023-06-06,03:33:53,iPhone 12,1310.52,131.05,True,Casey Mcdaniel,9620517344
+5,2023-02-12,17:30:23,Galaxy Note 10,845.79,84.58,False,Jennifer Griffin,9045335526
+6,2023-02-07,15:41:14,iPhone 12,1351.61,135.16,False,Dr. Michele Huang,9377330463
+7,2023-06-15,12:10:09,iPhone SE,593.82,59.38,False,Timothy Guerrero,9785992101
+8,2023-01-01,00:33:04,Galaxy Note 10,1334.09,133.41,False,Eric Hawkins,9324423643
+9,2023-01-26,16:47:11,iPhone SE,1051.47,105.15,False,Sara Williams,9854478422
+10,2023-05-21,00:11:13,Galaxy S21,687.52,68.75,False,Donna Velez,9876003384
