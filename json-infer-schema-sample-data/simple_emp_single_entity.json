@@ -1,0 +1,22 @@
+{
+  "name": "Philip Ayala",
+  "address": "USCGC Gonzalez\nFPO AA 13268",
+  "email": "williamthompson@example.com",
+  "phone_number": [
+      "(824)948-6728","(824)948-6727"
+      ],
+  "job": "IT",
+  "designation": "Software Engineer",
+  "date_of_joining": "2023-04-03",
+  "date_of_birth": "1983-06-19",
+  "age":30,
+  "height_in_ft": 6.22,
+  "active_status": true,
+  "programming_skill": {
+    "language": "Ruby",
+    "proficiency_level": "Beginner",
+    "experience_in_yrs": 2.6
+  },
+  "created_at": "2023-08-07T20:53:08.667555",
+  "updated_at": "2023-08-07T20:53:08.667555"
+}
